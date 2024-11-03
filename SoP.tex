@@ -66,15 +66,13 @@
 
 %% Why do you wish to attend graduate school? What would you like to study? Keep it broad, details come-in later
 
-My decision to pursue graduate studies is a natural outcome of my experiences gained as a master's student at the \textbf{Indian Institute of Science (IISc)} and more recently as a research staff in the \textbf{Systems Group} at \textbf{Microsoft Research India}. I am interested in \textbf{distributed systems} and \textbf{data-intensive cloud computing} — in particular, the system-side problems associated with \textbf{learning and deploying machine learning models at scale}. My research endeavors have resulted in publications at well-known conferences such as \textbf{OSDI [1]} and \textbf{ICDE [3]}. Through graduate studies at \school, I wish to take the first step towards my long term goal of a career in research.
-
+Ever since I chose to pursue a bachelor's degree in physics at 17, I knew I wanted to work in research. Towards the end of my undergraduate studies, I began conducting research in the same laboratory where I later completed my master's degree. I am interested in the characterization of 2D materials and their application in various devices, including sensors, solar cells, transistors, and LEDs. During my master's in Materials Science and Engineering, I presented my work on the characterization of a nanocomposite at two international conferences: B-MRS-XXI and B-MRS-XX, as well as at a Brazilian conference on carbon nanostructures.
 
 %% Describe 2-3 past projects that might be relevant to your research interests. (10-12 lines per project)
 
 % PROJECT 1: P3 - Distributed Graph Neural Network Training at Scale
 
-In the recent past, there has been significant interest in Graph Neural Networks (GNNs)—neural networks that operate on graph structured data. Contemporary systems for \textbf{distributed GNN training} have been heavily influenced by, often building upon, existing systems for DNN training and graph processing systems. While in-principle this might look as the most natural path forward, retrofitting algorithms and leveraging tradeoffs designed in context of DNN training and/or graph processing systems lowers compute resource utilization due to communication stalls and more importantly lead to scalability bottlenecks.
-Based on this, I worked with \textbf{Anand Iyer} to build the $\mathbf{P^{3} ~[1]}$ system, which enables efficient distributed training of GNNs on large input graphs. $P^{3}$, published in \textbf{OSDI 2021}, effectively eliminates communication stalls by independently partitioning the graph along feature and structural dimension; unlike just the structural dimension, as done by most partitioners (e.g., METIS) designed for graph processing systems. Such independent partitioning scheme combined with intra-layer model parallelism and pipelining enables new push-pull based distributed training strategy that can outperform previous data parallel methods, achieving low communication and partitioning overhead, and high resource utilization. We are currently integrating pipelined push-pull parallelism in Microsoft's DeepGraph GNN training engine to train state-of-the-art models with thousands of GPUs.
+During my masters I worked with aquos solution nanocomposite made from the polymer composite PEDOT:PSS and 2D-MoS$_2$, where 
 
 % PROJECT 2: SURGEON - Early-Exit Inference
 
