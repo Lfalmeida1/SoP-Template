@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.15)  5 NOV 2024 16:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.15)  5 NOV 2024 16:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -268,13 +268,13 @@ Package rerunfilecheck Info: File `SoP.out' has not changed.
 Here is how much of TeX's memory you used:
  9313 strings out of 475809
  141729 string characters out of 5777777
- 549204 words of memory out of 5000000
+ 549215 words of memory out of 5000000
  31886 multiletter control sequences out of 15000+600000
  558832 words of font info for 37 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  75i,13n,79p,784b,440s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </home/pedro/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1000.pk></home/pedro/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr7.pfb>
-Output written on SoP.pdf (2 pages, 34548 bytes).
+Output written on SoP.pdf (2 pages, 34523 bytes).
 PDF statistics:
  85 PDF objects out of 1000 (max. 8388607)
  3 named destinations out of 1000 (max. 500000)
