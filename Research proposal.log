@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.15)  3 DEC 2024 14:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.15)  5 DEC 2024 10:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"/home/pedro/Fe/Research proposal/SoP.tex"
-(/home/pedro/Fe/Research proposal/SoP.tex
+**"/home/pedro/Fe/Research proposal/Research proposal.tex"
+(/home/pedro/Fe/Research proposal/Research proposal.tex
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-08-30>
 (/home/pedro/.miktex/texmfs/install/tex/latex/base/article.cls
@@ -193,8 +193,8 @@ Package fancyhdr Warning: \fancyhead's `E' option without twoside option is usel
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count281
 \l__pdf_internal_box=\box52
-) (SoP.aux)
-\openout1 = `SoP.aux'.
+) (Research proposal.aux)
+\openout1 = `"Research proposal.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 65.
 LaTeX Font Info:    ... okay on input line 65.
@@ -215,9 +215,9 @@ LaTeX Font Info:    ... okay on input line 65.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 65.
 LaTeX Font Info:    ... okay on input line 65.
 Package hyperref Info: Link coloring ON on input line 65.
- (SoP.out) (SoP.out)
+ (Research proposal.out) (Research proposal.out)
 \@outlinefile=\write3
-\openout3 = `SoP.out'.
+\openout3 = `"Research proposal.out"'.
 
  (/home/pedro/.miktex/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -235,11 +235,11 @@ Package hyperref Info: Link coloring ON on input line 65.
 )
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 79.
+(Font)              <12> on input line 89.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 79.
+(Font)              <8> on input line 89.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 79.
+(Font)              <6> on input line 89.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 25.5487pt, for example:
@@ -249,26 +249,26 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [1{/home/pedro/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map}
 
-] (SoP.aux)
+] (Research proposal.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-08-30>
  ***********
-Package rerunfilecheck Info: File `SoP.out' has not changed.
+Package rerunfilecheck Info: File `"Research proposal".out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 9329 strings out of 475809
- 141935 string characters out of 5777777
- 536394 words of memory out of 5000000
- 31895 multiletter control sequences out of 15000+600000
- 561569 words of font info for 46 fonts, out of 8000000 for 9000
+ 9336 strings out of 475809
+ 142382 string characters out of 5777777
+ 541465 words of memory out of 5000000
+ 31901 multiletter control sequences out of 15000+600000
+ 561906 words of font info for 47 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 75i,13n,79p,506b,439s stack positions out of 10000i,1000n,20000p,200000b,200000s
- </home/pedro/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1200.pk>
-Output written on SoP.pdf (1 page, 21921 bytes).
+ 75i,13n,79p,505b,439s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ </home/pedro/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk> </home/pedro/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1200.pk>
+Output written on "Research proposal.pdf" (1 page, 24716 bytes).
 PDF statistics:
- 73 PDF objects out of 1000 (max. 8388607)
+ 82 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

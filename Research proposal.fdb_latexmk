@@ -1,9 +1,11 @@
 # Fdb version 4
-["pdflatex"] 1733248216.33602 "/home/pedro/Fe/Research proposal/SoP.tex" "SoP.pdf" "SoP" 1733248217.05863 0
+["pdflatex"] 1733405585.33396 "/home/pedro/Fe/Research proposal/Research proposal.tex" "Research proposal.pdf" "Research proposal" 1733405585.95239 0
   "/home/pedro/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map" 1732802860.47286 87667 863e106a84b29b58c96fafc38ada135a ""
   "/home/pedro/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1200.pk" 1729082319.97396 28440 6d9eb25a7eb14ef1d18437b1b10be155 ""
+  "/home/pedro/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk" 1729082318.81097 14064 de73a409c5ada0c710868fb3b7f9fdf8 ""
   "/home/pedro/.miktex/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt" 1729003146.42477 8785688 ecce0aeb623984edea967bef1a93c0c6 ""
   "/home/pedro/.miktex/texmfs/install/fonts/tfm/jknappen/ec/ecrm1200.tfm" 1728998679.69539 3152 4850ff0163852b7fab34bd55e1197f28 ""
+  "/home/pedro/.miktex/texmfs/install/fonts/tfm/jknappen/ec/tcrm1200.tfm" 1728998679.71939 1444 95ffe0f19b974d50849790c8225c7ef7 ""
   "/home/pedro/.miktex/texmfs/install/fonts/tfm/public/cm/cmmi12.tfm" 1728998504.2067 1524 4414a8315f39513458b80dfc63bff03a ""
   "/home/pedro/.miktex/texmfs/install/fonts/tfm/public/cm/cmmi6.tfm" 1728998504.2077 1512 f21f83efb36853c0b70002322c1ab3ad ""
   "/home/pedro/.miktex/texmfs/install/fonts/tfm/public/cm/cmmi8.tfm" 1728998504.2077 1520 eccf95517727cb11801f4f1aee3a21b4 ""
@@ -56,13 +58,13 @@
   "/home/pedro/.miktex/texmfs/install/tex/latex/tools/xspace.sty" 1728998546.75836 4545 e3f4de576c914e2000f07f69a891c071 ""
   "/home/pedro/.miktex/texmfs/install/tex/latex/url/url.sty" 1728998582.24072 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "/home/pedro/.miktex/texmfs/install/tex/latex/xcolor/xcolor.sty" 1728998612.47587 55487 80a65caedd3722f4c20a14a69e785d8f ""
-  "/home/pedro/Fe/Research proposal/SoP.tex" 1733248214.40929 3328 63e6e7c6be47b8d2c527dd7168c0dc97 ""
-  "SoP.aux" 1733248216.90643 162 55205a9e8a8eca30d36afb389b0617bf "pdflatex"
-  "SoP.out" 1733248216.88743 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "SoP.tex" 1733248214.40929 3328 63e6e7c6be47b8d2c527dd7168c0dc97 ""
+  "/home/pedro/Fe/Research proposal/Research proposal.tex" 1733405584.75677 4259 a6b06f48b173742a107ec407888c6518 ""
+  "Research proposal.aux" 1733405585.83579 162 55205a9e8a8eca30d36afb389b0617bf "pdflatex"
+  "Research proposal.out" 1733405585.81779 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "Research proposal.tex" 1733405584.75677 4259 a6b06f48b173742a107ec407888c6518 ""
   (generated)
-  "SoP.aux"
-  "SoP.log"
-  "SoP.out"
-  "SoP.pdf"
+  "Research proposal.aux"
+  "Research proposal.log"
+  "Research proposal.out"
+  "Research proposal.pdf"
   (rewritten before read)

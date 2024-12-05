@@ -1,0 +1,93 @@
+\documentclass[12pt]{article}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+
+% Linespread command allows you to change line spacing for the entire document
+\linespread{1.18}
+
+% Tweak page margins
+\addtolength{\oddsidemargin}{-.875in}
+\addtolength{\evensidemargin}{-.875in}
+\addtolength{\textwidth}{1.75in}
+
+\addtolength{\topmargin}{-.875in}
+\addtolength{\textheight}{1.75in}
+
+\usepackage{natbib}
+\usepackage{hyperref}
+\usepackage{xcolor}
+\usepackage{xspace}
+\usepackage{fancyhdr}
+\hypersetup{
+    colorlinks,
+    linkcolor={red!50!black},
+    citecolor={blue!50!black},
+    urlcolor={blue!80!black}
+}
+
+\newcommand{\HRule}{\rule{\linewidth}{0.5mm}}
+\newcommand{\Hrule}{\rule{\linewidth}{0.3mm}}
+
+% Project specific macros
+\newcommand{\graphite}{GRAPHITE\xspace}
+\newcommand{\wave}{WAVE\xspace}
+
+% School specific macros
+\newcommand{\schoolShort}{Stanford\xspace}
+\newcommand{\school}{Stanford\xspace}
+\newcommand{\schoolLong}{Stanford University\xspace}
+
+\newcommand{\profOne}{Prof. Matei Zaharia\xspace}
+\newcommand{\profTwo}{Prof. Christos Kozyrakis\xspace}
+\newcommand{\profThree}{Prof. Jure Leskovec\xspace}
+
+% Creates header for each page
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE,RO]{\header\hskip\linepagesep\vfootline\thepage}
+\newskip\linepagesep \linepagesep 5pt\relax
+\def\vfootline{%
+    \begingroup
+    	\rule[-10pt]{0.75pt}{25pt}
+    \endgroup
+}
+\def\header{%
+	\begin{minipage}[]{120pt}
+		\hfill Luis Felipe Almeida		% Applicant Name
+    	\par \hfill 				% Formatting boilerplate
+    	Physics, PhD, 2025 			% Area, Program, Cycle, Year
+    \end{minipage}
+}
+\fancyhead[RE,LO]{Research proposal| Imperial College London}
+\renewcommand\headrulewidth{0pt}
+
+\begin{document}
+
+%% Why do you wish to attend graduate school? What would you like to study? Keep it broad, details come-in later
+The research area that interests me the most is condensed matter physics. I am particularly passionate about electronic devices and 2D materials. During my undergraduate and master's studies, I worked with 2D materials, and the lab I was part of also conducted research on organic photovoltaics (OPVs) and gas sensors. Additionally, I have also worked with lithium-ion batteries at the SENAI Institute for Innovation in Brazil.
+
+While I have a deep interest in these areas, I am also interested in research involving other electronic devices, such as light-emitting diodes (LEDs) and transistors.
+
+I am particularly intrigued by projects that explore next-generation photovoltaics and energy storage solutions. In this regard, the following projects resonate strongly with my interests and expertise:
+\begin{itemize}
+    \item "Towards Pb-free perovskites for solar energy applications"(Dr. Julie Euvrad): Developing sustainable alternatives to Pb-based perovskites is an exciting theme for environmentally friendly energy solutions.
+    \item "Interface engineering for high performance energy storage applications"(Prof. Ji-Seon Kim): My background in batteries aligns with the premise of this project.
+    \item  Both "Single-Component Organic Photovoltaics and Photodetectors"(Prof. Ji-Seon Kim) and "2D/3D Perovskites for Efficient Solar Cells"(Prof. Ji-Seon Kim) align closely with my background in characterizing materials for photovoltaic applications.
+    \item "Device physics of single-component organic solar cells" (Prof. Jenny Nelson): Understanding the fundamental physics of organic materials offers a pathway to designing more efficient solar devices.
+\end{itemize}
+
+
+The research environment at Imperial College London is state-of-the-art, and its focus on sustainable energy perfectly aligns with my aspirations. I look forward to contributing to these research areas by leveraging my expertise and learning from leading scientists. My ultimate goal is to advance efficient, sustainable, and scalable energy technologies.
+% Add some blank space between text and references
+\vspace{0.125in}
+
+% References
+
+% **NOTE**: There are better ways to manage citations in LaTeX, most notably using a bibTeX. I wanted to have greater control on how citations were spaced and formatted and therefore ended up hardcoding them here. Your mileage may wary!
+
+\end{document}
+
+% That's All Folks.
+
+% Best of luck, you got this! :)
